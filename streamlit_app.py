@@ -6,7 +6,7 @@ import json
 from scipy import stats
 
 import plotly.graph_objects as go
-import plotly.express as px
+import plotly.express as px 
 
 # --- 0. 유틸리티 및 통계 계산 함수 ---
 
